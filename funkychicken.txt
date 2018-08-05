@@ -1,0 +1,10 @@
+<ul>
+
+	<li>apples </li>
+	<li>banababas</li>
+	<li>milk </li>
+	<li>junk</li>
+	<li>veggies</li>
+
+
+</ul>
